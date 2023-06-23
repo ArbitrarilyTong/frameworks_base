@@ -63,6 +63,7 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/ringtones/hydra.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/hydra.ogg \
 	$(LOCAL_PATH)/ringtones/Lyra.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Lyra.ogg \
 	$(LOCAL_PATH)/ringtones/Machina.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Machina.ogg \
+	$(LOCAL_PATH)/ringtones/ArbitrarilyTongTune.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/ArbitrarilyTongTune.ogg \
 	$(LOCAL_PATH)/ringtones/Orion.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Orion.ogg \
 	$(LOCAL_PATH)/ringtones/Pegasus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Pegasus.ogg \
 	$(LOCAL_PATH)/ringtones/PERSEUS.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/PERSEUS.ogg \
