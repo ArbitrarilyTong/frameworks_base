@@ -17,4 +17,7 @@
 PRODUCT_PACKAGES := \
     DroidSansMono.ttf \
     AndroidClock.ttf \
+    OPlusSans-Regular.ttf \
+    OPlusSans-Hans-Regular.ttf \
+    OPlusSans-Hant-Regular.ttf \
     fonts.xml
