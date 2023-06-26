@@ -22,6 +22,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/Alarm_Classic.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Alarm_Classic.ogg \
     $(LOCAL_PATH)/Alarm_Rooster_02.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Alarm_Rooster_02.ogg \
     $(LOCAL_PATH)/alarms/ogg/Argon.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Argon.ogg \
+    $(LOCAL_PATH)/notifications/ogg/ATOMS.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/ATOMS.ogg \
+    $(LOCAL_PATH)/notifications/ogg/CRYSTALS.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/CRYSTALS.ogg \
+    $(LOCAL_PATH)/notifications/ogg/FLUX.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/FLUX.ogg \
+    $(LOCAL_PATH)/notifications/ogg/GLITTER.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/GLITTER.ogg \
     $(LOCAL_PATH)/alarms/ogg/Barium.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Barium.ogg \
     $(LOCAL_PATH)/alarms/ogg/Carbon.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Carbon.ogg \
     $(LOCAL_PATH)/alarms/ogg/Helium.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Helium.ogg \

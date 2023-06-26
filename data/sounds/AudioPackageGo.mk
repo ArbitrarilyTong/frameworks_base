@@ -22,6 +22,10 @@ LOCAL_PATH := frameworks/base/data/sounds
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/notifications/ogg/Alya.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Alya.ogg \
     $(LOCAL_PATH)/notifications/ogg/Argon.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Argon.ogg \
+    $(LOCAL_PATH)/notifications/ogg/ATOMS.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/ATOMS.ogg \
+    $(LOCAL_PATH)/notifications/ogg/CRYSTALS.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/CRYSTALS.ogg \
+    $(LOCAL_PATH)/notifications/ogg/FLUX.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/FLUX.ogg \
+    $(LOCAL_PATH)/notifications/ogg/GLITTER.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/GLITTER.ogg \
     $(LOCAL_PATH)/notifications/Canopus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Canopus.ogg \
     $(LOCAL_PATH)/notifications/Deneb.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Deneb.ogg \
     $(LOCAL_PATH)/newwavelabs/Highwire.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Highwire.ogg \

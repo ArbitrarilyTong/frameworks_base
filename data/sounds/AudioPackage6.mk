@@ -30,6 +30,10 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/effects/ogg/Trusted.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/Trusted.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Antimony.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Antimony.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Argon.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Argon.ogg \
+    $(LOCAL_PATH)/notifications/ogg/ATOMS.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/ATOMS.ogg \
+    $(LOCAL_PATH)/notifications/ogg/CRYSTALS.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/CRYSTALS.ogg \
+    $(LOCAL_PATH)/notifications/ogg/FLUX.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/FLUX.ogg \
+    $(LOCAL_PATH)/notifications/ogg/GLITTER.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/GLITTER.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Beryllium.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Beryllium.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Cobalt.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Cobalt.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Fluorine.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Fluorine.ogg \
